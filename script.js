@@ -1,6 +1,6 @@
 const weatherInfo = document.getElementById('weather-info');
 
-const apiKey = '935a74ac2db6a17a6152cd650faa5211'; //  API key
+const apiKey = ''; //  API key
 const apiUrl = 'https://api.openweathermap.org/data/2.5';
 
 async function getWeather(){
